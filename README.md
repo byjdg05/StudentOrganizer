@@ -1,12 +1,12 @@
-FEU Institute of Technology \n
-School Year: 2026 - 2027
-Term: 1
+# FEU Institute of Technology 
+School Year: 2026 - 2027 <br>
+Term: 1 <br>
 
-Student Organizer Project
+# Mobile Application Development 2 (IT0093): Student Organizer Project <br>
 
-Group name: 4WRD
-Members: 
-Alba, Aerick Lee P.
-Cordero, Jose III M.
-De Guia, Jonash Aaron C.
+Group name: 4WRD <br>
+Members:  <br>
+Alba, Aerick Lee P. <br>
+Cordero, Jose III M. <br>
+De Guia, Jonash Aaron C. <br>
 Lising, Romar Paulo M.
