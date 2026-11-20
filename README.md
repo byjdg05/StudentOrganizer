@@ -1,4 +1,4 @@
-FEU Institute of Technology
+FEU Institute of Technology \n
 School Year: 2026 - 2027
 Term: 1
 
